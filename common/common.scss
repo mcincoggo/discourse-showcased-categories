@@ -68,9 +68,9 @@ $topic-height: 70;
         >.topic-list-body {
             border: none;
         }
-        .topic-list-item:nth-child(odd) {
-            background: var(--primary-very-low);
-        }
+        // .topic-list-item:nth-child(odd) {
+        //     background: var(--primary-very-low);
+        // }
         .topic-list-item {
             height: #{$topic-height}px;
         }
